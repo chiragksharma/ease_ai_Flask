@@ -1,19 +1,13 @@
 
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/chiragksharma/ease_ai_Flask/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,14 +16,12 @@
   <p align="center">
     Your AI copilot for automating Youtube tasks with ease
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://twitter.com/chirags93395286/status/1754129278680158219">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/chiragksharma/ease_ai_Flask/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/chiragksharma/ease_ai_Flask/issues">Request Feature</a>
   </p>
 </div>
 
@@ -100,9 +92,9 @@ This section provides instructions on how to set up the Ease AI project on your 
 Before you begin, ensure you have the following installed:
 
 * npm (Node Package Manager) to manage the project's JavaScript dependencies.
-  ```sh
-  npm install npm@latest -g
-  ```
+    ```sh
+    npm install npm@latest -g
+    ```
 * Python and Flask for the backend server. Ensure Python is installed on your system. Flask can be installed via pip, Python's package installer.
 
 
@@ -116,29 +108,29 @@ To install and run the Ease AI project locally, follow these steps:
    ```
 
 2. **Navigate to Backend Directory**
-  ```sh
-  cd backend
-  ```
+    ```sh
+    cd backend
+    ```
 3. **Install NPM packages**
    ```sh
    npm install
    ```
 4. **Activate Python Virtual Environment**
 Set up and activate the Python virtual environment for Flask. This step may vary depending on your operating system.
-  ```sh
-  python -m venv venv
-  .\venv\Scripts\activate
-  ```
+    ```sh
+    python -m venv venv
+    .\venv\Scripts\activate
+    ```
 5. **Start the Flask Application**
 With the virtual environment activated, start the Flask application.
-  ```sh
-  python app.py
-  ```
+    ```sh
+    python app.py
+    ```
 6. **Environment Variables**
 Create a .env file in the root directory of the project. Add your OpenAI API key to this file.
-  ```sh
-  OPENAI_API_KEY='YOUR_OPENAI_API_KEY_HERE'
-  ```
+    ```sh
+    OPENAI_API_KEY='YOUR_OPENAI_API_KEY_HERE'
+    ```
 
 7. **Load the Extension in Chrome**
 To use the Ease AI Chrome extension, load it into the Chrome browser by enabling Developer Mode in the Chrome Extensions page (chrome://extensions/). Click on "Load unpacked" and select the extension directory from the Ease AI project.
@@ -156,7 +148,6 @@ Ensure the Flask server is running in the background when using the Chrome exten
 This is the video of the current version of the chrome extension.
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -171,7 +162,7 @@ This is the video of the current version of the chrome extension.
 - [ ] Multiple LLM models integration 
 - [ ] Analyze any youtube video or channel using automation
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/chiragksharma/ease_ai_Flask/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +213,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search) -->
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -238,7 +226,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/chirag-kumar-sharma-5286b51b8/
 [product-screenshot]: images/screenshot.png
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/

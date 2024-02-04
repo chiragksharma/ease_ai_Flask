@@ -117,11 +117,6 @@ def generate_response():
 # python environment 
 # .\venv\Scripts\activate
 
-# Open Router Key :
-# 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
-#curl -X POST http://localhost:5000/summary -H "Content-Type: application/json" -d '{"transcripts": "Hey who are you"}'
-
-
 if __name__ == '__main__':
     app.run(debug=True)
 
