@@ -4,6 +4,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -57,7 +60,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+https://github.com/chiragksharma/ease_ai_Flask/assets/74889769/2db1919f-3023-47d4-8e20-00107c523619
+
 
 Ease AI, where we harness the power of artificial intelligence to simplify your life and boost your productivity. Our goal is to create a seamless AI copilot that automates your day-to-day tasks, making technology work for you in the most efficient way possible. Whether you're a business looking to streamline operations or an individual aiming to make daily routines less tedious, Ease AI is here to assist.
 
@@ -227,7 +231,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chirag-kumar-sharma-5286b51b8/
-[product-screenshot]: images/screenshot.png
+
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
