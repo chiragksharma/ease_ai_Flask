@@ -62,6 +62,7 @@
 
 https://github.com/chiragksharma/ease_ai_Flask/assets/74889769/2db1919f-3023-47d4-8e20-00107c523619
 
+<img width="291" alt="image" src="https://github.com/chiragksharma/ease_ai_Flask/assets/74889769/18fe64dc-b128-4c92-b7b5-95c625240bc7">
 
 Ease AI, where we harness the power of artificial intelligence to simplify your life and boost your productivity. Our goal is to create a seamless AI copilot that automates your day-to-day tasks, making technology work for you in the most efficient way possible. Whether you're a business looking to streamline operations or an individual aiming to make daily routines less tedious, Ease AI is here to assist.
 
